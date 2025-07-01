@@ -1,0 +1,1 @@
+export default function TrueVal() { return <div className="p-4">TrueVal AI Valuation</div>; }

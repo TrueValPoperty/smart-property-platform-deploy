@@ -1,0 +1,1 @@
+export default function PlanScore() { return <div className="p-4">PlanScore Planning Uplift</div>; }

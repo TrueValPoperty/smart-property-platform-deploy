@@ -1,0 +1,1 @@
+export default function EcoStay() { return <div className="p-4">EcoStay Rental Tools</div>; }
